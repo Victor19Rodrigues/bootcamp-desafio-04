@@ -69,3 +69,6 @@ posts.map(post => <Post key={post.id} data={post} />)
 ```js
 data.comments.map(comment => <Comment key={comment.id} data={comment} />)
 ```
+## Resultado:
+
+![Resultado](src/assets/facebook.png)
