@@ -69,3 +69,5 @@ posts.map(post => <Post key={post.id} data={post} />)
 ```js
 data.comments.map(comment => <Comment key={comment.id} data={comment} />)
 ```
+
+![alt text](https://ibb.co/WxP5zHr)
